@@ -1,0 +1,6 @@
+{
+  "name": "Slate Coin",
+  "description": "A secure task-earning and competitive gaming app featuring real-time leaderboards, streak rewards, encrypted chatbot hubs, instant UPI gateway, and anti-fraud engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
